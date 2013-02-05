@@ -1,0 +1,3 @@
+[submodule "themes/textmate-solarized"]
+	path = themes/textmate-solarized
+	url = https://github.com/deplorableword/textmate-solarized.git
