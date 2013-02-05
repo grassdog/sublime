@@ -1,4 +1,5 @@
 {
+	"auto_complete_commit_on_tab": true,
 	"color_scheme": "Packages/User/themes/textmate-solarized/Solarized (dark).tmTheme",
 	"file_exclude_patterns":
 	[
@@ -40,6 +41,5 @@
 		"Vintage"
 	],
 	"save_on_focus_lost": true,
-	"trimTrailingWhiteSpaceOnSave": true,
-	"auto_complete_commit_on_tab": true
+	"trimTrailingWhiteSpaceOnSave": true
 }
