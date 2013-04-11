@@ -2,9 +2,13 @@
 	"installed_packages":
 	[
 		"All Autocomplete",
+		"Bower",
 		"ChangeQuotes",
+		"DashDoc",
 		"DetectSyntax",
+		"Enhanced Clojure",
 		"Git",
+		"GitGutter",
 		"Marked.app Menu",
 		"Package Control",
 		"Puppet",
