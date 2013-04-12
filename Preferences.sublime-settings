@@ -1,6 +1,7 @@
 {
 	"auto_complete_commit_on_tab": true,
-	"color_scheme": "Packages/User/themes/solarized/Solarized (dark).tmTheme",
+	"color_scheme": "Packages/User/themes/moonlit/Moonlit.tmTheme",
+	"default_encoding": "UTF-8",
 	"file_exclude_patterns":
 	[
 		"*.pyc",
@@ -36,6 +37,7 @@
 	],
 	"font_face": "Menlo",
 	"font_size": 12,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"

@@ -1,22 +1,29 @@
 {
 	"schema_version": "1.2",
-	"packages": [
-		{
-			"name": "MarkdownEditing-fork",
-			"description": "My branch of the MarkdownEditing plugin",
-			"author": "Ray Grasso",
-			"homepage": "http://github.com/grassdog/MarkdownEditing",
-			"last_modified": "2013-04-12 18:45:31",
-			"platforms": {
-				"*": [
-					{
-						"version": "1.1",
-						"url": "https://github.com/grassdog/MarkdownEditing/archive/master.zip"
-					}
-				]
-			}
-		}
+	"repositories": [
+    "https://raw.github.com/grassdog/sublime/master/repo/repo.json"
 	],
+	"package_name_map": {
+	},
 	"renamed_packages": {
+	},
+	"packages": {
+    "https://raw.github.com/grassdog/sublime/master/repo/repo.json": [
+      {
+        "name": "MarkdownEditing-fork",
+        "description": "My branch of the MarkdownEditing plugin",
+        "author": "Ray Grasso",
+        "homepage": "http://github.com/grassdog/MarkdownEditing",
+        "last_modified": "2013-04-12 18:45:31",
+        "platforms": {
+          "*": [
+            {
+              "version": "1.1",
+              "url": "https://github.com/grassdog/MarkdownEditing/archive/master.zip"
+            }
+          ]
+        }
+      }
+		]
 	}
 }

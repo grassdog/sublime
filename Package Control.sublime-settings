@@ -9,16 +9,22 @@
 		"Enhanced Clojure",
 		"Git",
 		"GitGutter",
+		"Local History",
 		"Marked.app Menu",
 		"Open URL",
 		"Package Control",
 		"Puppet",
 		"RSpec",
 		"RSpecNavigator",
+		"ScopeHunter",
 		"SCSS",
 		"SideBarEnhancements",
 		"Solarized Color Scheme",
 		"SublimeLinter",
 		"SublimeREPL"
+	],
+	"repositories":
+	[
+		"https://raw.github.com/grassdog/sublime/master/repo/repo.json"
 	]
 }
