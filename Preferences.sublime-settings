@@ -1,6 +1,6 @@
 {
 	"auto_complete_commit_on_tab": true,
-	"color_scheme": "Packages/User/themes/textmate-solarized/Solarized (dark).tmTheme",
+	"color_scheme": "Packages/User/themes/solarized/Solarized (dark).tmTheme",
 	"file_exclude_patterns":
 	[
 		"*.pyc",
