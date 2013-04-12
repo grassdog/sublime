@@ -6,6 +6,7 @@
 	"package_name_map": {
 	},
 	"renamed_packages": {
+    "MarkdownEditor": "MarkdownEditor-original"
 	},
 	"packages": {
     "https://raw.github.com/grassdog/sublime/master/repo/repo.json": [
