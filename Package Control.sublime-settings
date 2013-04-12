@@ -22,9 +22,5 @@
 		"Solarized Color Scheme",
 		"SublimeLinter",
 		"SublimeREPL"
-	],
-	"repositories":
-	[
-		"https://raw.github.com/grassdog/sublime/master/repo/repo.json"
 	]
 }
