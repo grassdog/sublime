@@ -1,0 +1,22 @@
+{
+	"schema_version": "1.2",
+	"packages": [
+		{
+			"name": "MarkdownEditing-fork",
+			"description": "My branch of the MarkdownEditing plugin",
+			"author": "Ray Grasso",
+			"homepage": "http://github.com/grassdog/MarkdownEditing",
+			"last_modified": "2013-04-12 18:45:31",
+			"platforms": {
+				"*": [
+					{
+						"version": "1.1",
+						"url": "https://github.com/grassdog/MarkdownEditing/archive/master.zip"
+					}
+				]
+			}
+		}
+	],
+	"renamed_packages": {
+	}
+}
