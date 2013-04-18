@@ -3,10 +3,10 @@
 	[
 		"All Autocomplete",
 		"Bower",
-		"ChangeQuotes",
 		"DashDoc",
 		"DetectSyntax",
 		"Enhanced Clojure",
+		"flatland",
 		"Git",
 		"GitGutter",
 		"Local History",
@@ -21,6 +21,12 @@
 		"SideBarEnhancements",
 		"Solarized Color Scheme",
 		"SublimeLinter",
-		"SublimeREPL"
+		"SublimeREPL",
+		"SublimeTODO",
+		"Surround"
+	],
+	"repositories":
+	[
+		"https://github.com/thinkpixellab/flatland/"
 	]
 }
