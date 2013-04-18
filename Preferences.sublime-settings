@@ -31,6 +31,7 @@
 		".svn",
 		".git",
 		".hg",
+		".tmp",
 		"CVS",
 		"tmp/**",
 		"vendor/bundle"
@@ -44,5 +45,12 @@
 	],
 	"save_on_focus_lost": true,
 	"theme": "Flatland.sublime-theme",
-	"trimTrailingWhiteSpaceOnSave": true
+	"trimTrailingWhiteSpaceOnSave": true,
+	"todo": {
+	    "folder_exclude_patterns": [
+	        "vendor", 
+	        "tmp",
+	        ".tmp"
+	    ]
+	}
 }
