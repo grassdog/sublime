@@ -9,7 +9,7 @@
 	"font_face": "Menlo",
 	"font_size": 12,
 	"font_options": [],
-	"color_scheme": "Packages/User/themes/moonlit/Moonlit.tmTheme",
+	"color_scheme": "Packages/moonlit/Moonlit.tmTheme",
 	// "color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Focus.tmTheme",
 	"word_wrap": true,
 	"wrap_width": 80,

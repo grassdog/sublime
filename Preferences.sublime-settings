@@ -1,6 +1,6 @@
 {
 	"auto_complete_commit_on_tab": true,
-	"color_scheme": "Packages/User/themes/moonlit/Moonlit.tmTheme",
+	"color_scheme": "Packages/moonlit/Moonlit.tmTheme",
 	"default_encoding": "UTF-8",
 	"file_exclude_patterns":
 	[
