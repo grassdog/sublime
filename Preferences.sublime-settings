@@ -45,12 +45,14 @@
 	],
 	"save_on_focus_lost": true,
 	"theme": "Flatland.sublime-theme",
-	"trimTrailingWhiteSpaceOnSave": true,
-	"todo": {
-	    "folder_exclude_patterns": [
-	        "vendor", 
-	        "tmp",
-	        ".tmp"
-	    ]
-	}
+	"todo":
+	{
+		"folder_exclude_patterns":
+		[
+			"vendor",
+			"tmp",
+			".tmp"
+		]
+	},
+	"trimTrailingWhiteSpaceOnSave": true
 }
